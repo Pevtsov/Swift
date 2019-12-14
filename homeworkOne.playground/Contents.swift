@@ -34,7 +34,6 @@ print("Периметр прямоугольника равен: \(Int(perimeter
 print("Гипотенуза прямоугольника равна: \(Int(hypotenuse))")
 
 // №3
-//
 print("")
 print("№3")
 var deposit:Float = 30000
